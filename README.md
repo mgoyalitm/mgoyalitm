@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahendra Goyal
 
-<!--
-**mgoyalitm/mgoyalitm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Expert .NET/C# engineer focused on algorithm-heavy applications, real-time graphics, and ML-based tooling.
 
-Here are some ideas to get you started:
+- 🔧 Built a Revit-style real-time BIM editor with O(n) spatial validation
+- 🧪 Created an OCR trainer in ML.NET that outperforms Tesseract in accuracy
+- 🎯 Specialized in WPF, Win2D, XAML, and mathematical rendering engines
+- 🧰 Ex-HCL Lead Engineer | Now Expert-Vetted Freelancer (Upwork)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Key Projects
+- [OCR Trainer in ML.NET](https://github.com/mgoyalitm/Optical-Text-Recognition-Trainer-in-ML.net) — Train OCR models with rotation-augmented font data
+- [Graph Plotter (Coming Soon)]() — Real-time 2D mathematical graph engine
+
+## 📫 Contact
+- 📧 mgoyal.itm@gmail.com
+- 🌐 [LinkedIn](https://linkedin.com/in/mahendra-goyal-775b43205)
+
+> "I solve hard problems with clean code and sharper math."
