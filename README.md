@@ -1,31 +1,46 @@
-Hi, I’m Mahendra Goyal
+# Mahendra Goyal
 
-I’m an algorithm and computational geometry engineer focused on building performance-critical systems—from interactive geometry engines to CUDA-accelerated simulations. My work centers on mathematical correctness, deterministic behavior, and scalable computation, not UI glue or framework churn.
+Algorithm and computational geometry engineer focused on **performance-critical systems**, including **interactive geometry engines** and **CUDA-accelerated simulations**. My work emphasizes **mathematical correctness, deterministic behavior, and scalable computation** over framework-heavy application code.
 
-Core Focus
+---
 
-Computational Geometry & Algorithms
-Geometry kernels, constraint-aware editing, graph-based reasoning, analytic evaluations.
+## Core Focus
 
-CUDA & High-Performance Computing
-Parallel evaluation pipelines, GPU memory optimization, deterministic simulations.
+### Computational Geometry & Algorithms
+- Geometry kernels for interactive systems  
+- Constraint-aware editing and topology preservation  
+- Graph-based reasoning for planning and layout problems  
+- Analytic geometric evaluation without approximation shortcuts  
 
-Interactive Geometry Systems
-Real-time tools where geometric validity is preserved continuously under interaction.
+### CUDA & High-Performance Computing
+- CUDA kernel development and parallel evaluation pipelines  
+- GPU memory layout and throughput optimization  
+- Deterministic numerical simulations on the GPU  
 
-Selected Projects
+### Interactive Geometry Systems
+- Real-time tools where geometric validity is preserved continuously  
+- Freeform editing with snapping, constraints, and invariants  
+- Separation of interaction, evaluation, and computation layers  
 
-Electric Field Line Simulation (C++ / CUDA)
-GPU-accelerated physics engine for large-scale vector-field evaluation and field-line integration, emphasizing numerical stability and throughput.
+---
 
-BIM-Grade Floorplan Systems
-Interactive floorplan canvases and heuristic layout solvers combining computational geometry, graph algorithms, and constraint reasoning.
+## Selected Projects
 
-Geometry-Driven Tooling
-Freeform Bézier editors, planning engines, and analytic geometry utilities built without approximation shortcuts.
+### Electric Field Line Simulation (C++ / CUDA)
+CUDA-accelerated physics engine for large-scale electric field evaluation and field-line integration. Focused on numerical stability, parallel execution, and scalable vector-field computation independent of rendering concerns.
 
-Background
+### BIM-Grade Floorplan Systems
+Interactive floorplan canvases and heuristic layout solvers combining computational geometry, graph algorithms, and constraint reasoning for automated layout generation and validation.
 
-Former Lead Engineer at HCL Tech, with experience delivering algorithm-heavy systems in imaging, geometry, and simulation domains. I specialize in problems where math and performance matter more than frameworks.
+### Geometry-Driven Tooling
+Freeform Bézier editors, planning engines, and analytic geometry utilities built on domain-specific geometry kernels without relying on dense polygon discretization.
 
-I build engines, not demos—and I care about correctness as much as speed.
+---
+
+## Background
+
+Former Lead Engineer at HCL Tech with experience delivering **algorithm-heavy systems** across imaging, geometry, and simulation domains. I specialize in problems where **math and performance matter more than UI frameworks**.
+
+---
+
+> I build engines, not demos—and I care about correctness as much as speed.
