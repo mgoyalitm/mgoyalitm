@@ -34,13 +34,3 @@ Interactive floorplan canvases and heuristic layout solvers combining computatio
 
 ### Geometry-Driven Tooling
 Freeform Bézier editors, planning engines, and analytic geometry utilities built on domain-specific geometry kernels without relying on dense polygon discretization.
-
----
-
-## Background
-
-Former Lead Engineer at HCL Tech with experience delivering **algorithm-heavy systems** across imaging, geometry, and simulation domains. I specialize in problems where **math and performance matter more than UI frameworks**.
-
----
-
-> I build engines, not demos—and I care about correctness as much as speed.
