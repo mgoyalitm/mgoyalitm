@@ -1,27 +1,31 @@
-# 👋 Hi, I'm Mahendra Goyal
+Hi, I’m Mahendra Goyal
 
-🔗 Recognized as **Algorithm Developer on Toptal** and **Expert-Vetted on Upwork**, connecting with top-tier clients for high-complexity, performance-critical projects.
-I build **algorithm-heavy applications**, **real-time graphics**, and **high-performance computing solutions** using **C#, XAML/WPF, C++, CUDA, and OpenGL**.
+I’m an algorithm and computational geometry engineer focused on building performance-critical systems—from interactive geometry engines to CUDA-accelerated simulations. My work centers on mathematical correctness, deterministic behavior, and scalable computation, not UI glue or framework churn.
 
-## 🚀 What I Do
-- 🏗 **Enterprise-Grade Backends & UI** — ASP.NET Core, REST APIs, WPF/WinUI, Uno Platform, MVVM patterns.  
-- ⚡ **GPU-Accelerated Simulations** — CUDA kernels, parallel algorithms, and memory optimization for real-time physics and visualization.  
-- 🔬 **Machine Learning Tooling** — Custom OCR pipelines (ML.NET) and intelligent data-driven utilities.  
-- 📐 **Mathematical Rendering** — Computational geometry, graph plotting, and advanced visualization engines.
+Core Focus
 
-## 📂 Featured Projects
-- [⚡ Field Line Simulation (C++/CUDA/OpenGL)](https://github.com/mgoyalitm/Field-Line-Simulation) — GPU-accelerated electric field visualization using Coulomb’s law and Newtonian motion. Real-time 3D rendering, adaptive stepping, and CUDA memory optimization.  
-- [🔤 OCR Trainer in ML.NET](https://github.com/mgoyalitm/Optical-Text-Recognition-Trainer-in-ML.net) — Rotation-augmented OCR trainer outperforming Tesseract in accuracy.  
-- [📊 Graph Plotter (Coming Soon)]() — Real-time 2D mathematical graph engine with Newtonian tangent/normal calculations.
+Computational Geometry & Algorithms
+Geometry kernels, constraint-aware editing, graph-based reasoning, analytic evaluations.
 
-## 🧰 Career Highlights
-- 🧱 Built a Revit-style BIM editor with **O(n)** spatial validation for real-time design feedback.  
-- 🧪 Created an OCR training pipeline that beat Tesseract accuracy benchmarks.  
-- 🧰 Former Lead Engineer at **HCL Tech**, now **Expert-Vetted Freelancer on Upwork** (Top 0.005%).  
+CUDA & High-Performance Computing
+Parallel evaluation pipelines, GPU memory optimization, deterministic simulations.
 
-## 📫 Contact
-- 📧 mgoyal.itm@gmail.com  
-- 🌐 [LinkedIn](https://linkedin.com/in/mahendra-goyal-775b43205)  
-- 💼 [Upwork Profile](https://www.upwork.com/freelancers/~mgoyal) *(Expert-Vetted, ranked 920/18M)*  
+Interactive Geometry Systems
+Real-time tools where geometric validity is preserved continuously under interaction.
 
-> “I solve hard problems with clean code, sharper math, and GPUs running at full throttle.”
+Selected Projects
+
+Electric Field Line Simulation (C++ / CUDA)
+GPU-accelerated physics engine for large-scale vector-field evaluation and field-line integration, emphasizing numerical stability and throughput.
+
+BIM-Grade Floorplan Systems
+Interactive floorplan canvases and heuristic layout solvers combining computational geometry, graph algorithms, and constraint reasoning.
+
+Geometry-Driven Tooling
+Freeform Bézier editors, planning engines, and analytic geometry utilities built without approximation shortcuts.
+
+Background
+
+Former Lead Engineer at HCL Tech, with experience delivering algorithm-heavy systems in imaging, geometry, and simulation domains. I specialize in problems where math and performance matter more than frameworks.
+
+I build engines, not demos—and I care about correctness as much as speed.
