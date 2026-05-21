@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Allow folder traversal
+!*/
+
+# Keep README and .gitignore
+!README.md
+!.gitignore
